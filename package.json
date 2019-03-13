@@ -1,11 +1,11 @@
 {
-    "title": "Resume",
+    "title": "Sandeep Varma D - Resume",
     "name": "startbootstrap-resume",
-    "version": "5.0.4",
+    "version": "1.0.0",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Hosted Github Resume.",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,12 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://sandeepvarmad.github.io/",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Sandeep Varma D",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/sandeepvarmad/sandeepvarmad.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.2",
